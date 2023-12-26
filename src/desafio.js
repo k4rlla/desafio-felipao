@@ -1,5 +1,5 @@
 let nome = "Din Djarin";
-let xp = 1000;
+let xp =10020;
 
 if (xp < 1000) {
     console.log("Ferro")
@@ -18,3 +18,4 @@ if (xp < 1000) {
 } else {
     console.log("Radiante")
 }
+console.log(`O Hérói de nome ${nome} está no nível de  ${xp}`)
