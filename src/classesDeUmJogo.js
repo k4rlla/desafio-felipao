@@ -21,5 +21,5 @@ class Hero {
     
   }
   
-  let bigHero = new hero("Paulo", 30, "ninja")
+  let bigHero = new Hero("Paulo", 30, "ninja")
   bigHero.atacar()
